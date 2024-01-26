@@ -21,6 +21,7 @@ print(t1.get_salary())
 print('bye')
 print('hi')
 print('hello')
+print('god')
 
 
 
