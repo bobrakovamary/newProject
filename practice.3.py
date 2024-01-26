@@ -19,5 +19,7 @@ t1 = Salary(43500)
 print(t1.get_salary())
 
 print('bye')
+print('hi')
+
 
 
