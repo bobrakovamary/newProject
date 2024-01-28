@@ -20,9 +20,7 @@ print(t1.get_salary())
 
 print('bye')
 print('hi')
-print('hello')
-def newfunc():
-    return 'hello'
-print(newfunc())
+print('hii')
+
 
 
