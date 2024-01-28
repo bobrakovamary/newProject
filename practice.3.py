@@ -17,7 +17,7 @@ class Salary:
 
 t1 = Salary(43500)
 print(t1.get_salary())
-
+print('hii')
 print('bye')
 print('hi')
 print('hello')
